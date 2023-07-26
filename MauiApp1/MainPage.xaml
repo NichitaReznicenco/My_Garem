@@ -36,8 +36,9 @@
                 TextColor="#800000"
                 BorderWidth="3"
                 BorderColor="Yellow"
-                FontSize="57"
-                Padding="300"
+                HeightRequest="57"
+                WidthRequest="150"
+  
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
